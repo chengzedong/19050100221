@@ -8,7 +8,7 @@ git clone:拷贝一个 Git 仓库到本地，让自己能够查看该项目，�
 git push:将本地的分支版本上传到远程并合并
 
 Github——是一个面向开源及私有软件项目的托管平台（开源，云）
-github https://github.com/
+https://github.com/
 
 Arduino——是一款便捷灵活、方便上手的开源电子原型平台。
 https://www.arduino.cc/
